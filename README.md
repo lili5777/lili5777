@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Ali Ferdiansyah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lili5777&label=Profile%20views&color=0e75b6&style=flat" alt="lili5777" /> </p>
-<img align="right" alt="Coding" width="400" src="https://s1.gifyu.com/images/S1JuH.gif">
+<img align="right" alt="Coding" width="400" src="https://s11.gifyu.com/images/S1Jug.gif">
 
 - 🔭 I’m currently working on **laboratory assistant management system**
 
