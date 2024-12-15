@@ -1,4 +1,5 @@
 # Hi there, I'm Lili! 👋
+<img align="right" alt="Coding" width="400" src="https://s11.gifyu.com/images/S1Jug.gif">
 
 Welcome to my GitHub profile! I'm a passionate developer who loves creating impactful projects and learning new technologies.
 
