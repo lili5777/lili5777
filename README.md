@@ -63,8 +63,8 @@ A recipe management web application that simplifies meal planning and includes p
 
 ## 📬 Let's Connect
 
-- 🌐 **Website/Portfolio:** [Booking Lapangan](https://github.com/lili5777/Booking-Lapangan)
-- 💼 **LinkedIn:** lili5777
+- 🌐 **Website/Portfolio:** [Zaily](https://zaily.netlify.app/)
+- 💼 **LinkedIn:** [ferdiansyah7179](https://www.linkedin.com/in/ferdiansyah7179/)
 - 📧 **Email:** zailyanzali@gmail.com
 
 ---
