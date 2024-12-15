@@ -63,9 +63,9 @@ A recipe management web application that simplifies meal planning and includes p
 
 ## 📬 Let's Connect
 
-- 🌐 **Website/Portfolio:** (https://zaily.netlify.app)
-- 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
-- 📧 **Email:** [Your Email Here]
+- 🌐 **Website/Portfolio:** zaily.netlify.app
+- 💼 **LinkedIn:** lili5777
+- 📧 **Email:** zailyanzali@gmail.com
 
 ---
 
