@@ -12,10 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 - 💻 **Expertise:** Web Development, Backend Development, Frontend Design
 - 🛠️ **Tech Stack:** Laravel, Next.js, React, Vue.js, React Native
 - 📍 **Location:** South Sulawesi, Indonesia
-
-
-
-
+<br>
 ---
 
 ## 🌱 Current Focus
