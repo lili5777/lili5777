@@ -53,17 +53,17 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 ### 🌟 [Management Ujian Online](https://github.com/lili5777/Management-Ujian-Online)
 An online exam management system to streamline test creation, scheduling, and evaluation.
 
-### 🌟 [TurunTanganGowa](https://github.com/lili5777/TurunTanganGowa)
-A community-driven web application for natural disaster donation and fundraising.
+### 🌟 [Booking Lapangan](https://github.com/lili5777/Booking-Lapangan)
+A web application for managing sports field bookings, with features like scheduling, pricing calculations, and availability tracking.
 
-### 🌟 [Nurrezi Apotek](https://github.com/lili5777/Nurrezi-Apotek)
-A web application integrating Prophet algorithm to predict drug stock levels.
+### 🌟 [Resep Makanan](https://github.com/lili5777/Resep-Makanan)
+A recipe management web application that simplifies meal planning and includes predictive analytics for ingredient availability using the Prophet algorithm.
 
 ---
 
 ## 📬 Let's Connect
 
-- 🌐 **Website/Portfolio:** [(https://zaily.netlify.app/)]
+- 🌐 **Website/Portfolio:** (https://zaily.netlify.app)
 - 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
 - 📧 **Email:** [Your Email Here]
 
