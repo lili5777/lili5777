@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 
 ## 🚀 About Me
 
-- 🌟 **Full Name:** Lili
+- 🌟 **Full Name:** Muhammad Ali Ferdiansyah
 - 💻 **Expertise:** Web Development, Backend Development, Frontend Design
-- 🛠️ **Tech Stack:** Laravel, Next.js, React, Vue.js, React Native
+- 🛠️ **Tech Stack:** Laravel, React, Vue.js, React Native
 - 📍 **Location:** South Sulawesi, Indonesia
 <br>
 
@@ -28,11 +28,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 ## 🛠️ My Tools & Technologies
 
 ### **Languages & Frameworks:**
-- PHP (Laravel), JavaScript (React, Vue.js, Next.js)
-- CSS/Tailwind CSS
+- PHP (Laravel), JavaScript (React, Vue.js)
+- CSS/Tailwind CSS/Boostrap
 
 ### **Database Management:**
-- MySQL, PostgreSQL
+- MySQL
 
 ### **Tools:**
 - Git & GitHub
@@ -63,7 +63,7 @@ A web application integrating Prophet algorithm to predict drug stock levels.
 
 ## 📬 Let's Connect
 
-- 🌐 **Website/Portfolio:** [Coming Soon!]
+- 🌐 **Website/Portfolio:** [(https://zaily.netlify.app/)]
 - 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
 - 📧 **Email:** [Your Email Here]
 
