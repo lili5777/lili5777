@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating impa
 ## 🚀 About Me
 
 - 🌟 **Full Name:** Muhammad Ali Ferdiansyah
-- 💻 **Expertise:** Web Development, Backend Development, Frontend Design
-- 🛠️ **Tech Stack:** Laravel, React, Vue.js, React Native
+- 💻 **Expertise:** Web Development
+- 🛠️ **Tech Stack:** Laravel, Vue.js, React Native
 - 📍 **Location:** South Sulawesi, Indonesia
 <br>
 
