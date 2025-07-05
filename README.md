@@ -70,3 +70,15 @@ A recipe management web application that simplifies meal planning and includes p
 ---
 
 💡 _"The best way to predict the future is to create it."_ — Let's build amazing things together!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lili5777/lili5777/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lili5777/lili5777/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lili5777/lili5777/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/lili5777/lili5777/output/snake.svg" alt="Snake animation" />
+
+###
